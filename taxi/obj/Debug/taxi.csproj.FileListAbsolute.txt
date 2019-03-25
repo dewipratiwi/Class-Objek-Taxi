@@ -1,0 +1,7 @@
+D:\dewo\taxi\taxi\bin\Debug\taxi.exe.config
+D:\dewo\taxi\taxi\bin\Debug\taxi.exe
+D:\dewo\taxi\taxi\bin\Debug\taxi.pdb
+D:\dewo\taxi\taxi\obj\Debug\taxi.csprojAssemblyReference.cache
+D:\dewo\taxi\taxi\obj\Debug\taxi.csproj.CoreCompileInputs.cache
+D:\dewo\taxi\taxi\obj\Debug\taxi.exe
+D:\dewo\taxi\taxi\obj\Debug\taxi.pdb
